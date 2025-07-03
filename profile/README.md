@@ -1,7 +1,7 @@
 
 
-<h1 align="center">🕹️ 마비노기 거래 분석 & 커뮤니티 서비스</h1>
-<p align="center">DEVNOGI</p>
+<h1 align="center">🕹️ DEVNOGI</h1>
+<p align="center">마비노기 거래 분석 & 커뮤니티 서비스</p>
 
 ---
 
@@ -55,9 +55,9 @@
 > 본 프로젝트는 MSA 구성으로 서버별로 기술 스택은 조정될 수 있습니다.
 
 - **Frontend**: Next.js, TailwindCSS  
-- **Backend**: Spring Boot, JPA, QueryDSL  
+- **Backend**: Spring Boot, JPA, JUnit5, Redis, QueryDSL  
 - **Infra**: MySQL, Docker, GitHub Actions, AWS (EC2, S3, RDS 등)  
-- **Communication**: Github Projects, GitHub Flow, Discord, Notion  
+- **Communication**: Github, GitHub Flow, Discord, Notion  
 - **Etc**: Nexon OpenAPI 활용, JWT, Spring Security  
 
 ---
