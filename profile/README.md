@@ -58,7 +58,7 @@
 - **Backend**: Spring Boot, JPA, JUnit5, Redis, QueryDSL  
 - **Infra**: MySQL, Docker, GitHub Actions, AWS (EC2, S3, RDS 등)  
 - **Communication**: Github, GitHub Flow, Discord, Notion  
-- **Etc**: Nexon OpenAPI 활용, JWT, Spring Security  
+- **Etc**: [Nexon OpenAPI 활용](https://openapi.nexon.com/ko/game/mabinogi/?id=32), JWT, Spring Security  
 
 ---
 
