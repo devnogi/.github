@@ -1,11 +1,17 @@
-name: Proof HTML
+name: Verify
 on:
+  pull_request:
+    branches: [main]
   push:
-  workflow_dispatch:
+    branches: [main]
+permissions:
+  contents: read
 jobs:
-  build:
+  verify:
+    name: verify
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: anishathalye/proof-html@v1.1.0
         with:
           directory: ./
